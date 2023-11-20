@@ -1,6 +1,6 @@
-# Inchpower - BTC Layer2 Blockchain Project
+# Inchpower - Bitcoin Layer 2 Blockchain Project
 
-**Version**: 2.0  
+**Version**: 0.1.0  
 **Release Date**: November 17, 2023
 
 ![InchNet Architecture](./inchpower1.jpeg)
@@ -21,14 +21,14 @@
 
 ## 1. Introduction
 
-Inchpower is a BTC Layer2 solution designed to transform Bitcoin into a utility token while maintaining its value-anchored nature. The project focuses on providing a trustworthy and secure environment for BTC holders to use their assets without bridging to other blockchains. Inchpower offers a comprehensive security guarantee, supporting rapid unbundling to maximize liquidity and income for BTC holders.
+Inchpower is a Bitcoin Layer 2 solution designed to transform Bitcoin into a utility token while maintaining its value-anchored nature. The project focuses on providing a trustworthy and secure environment for Bitcoin holders to use their assets without bridging to other blockchains. Inchpower offers a comprehensive security guarantee, supporting rapid unbundling to maximize liquidity and income for Bitcoin holders.
 
 ## 2. Features
 
-- **BTC Nativeness:** Inchpower ensures full compatibility with the BTC ecosystem, using BTC as gas fees to maintain purity.
-- **Security:** Utilizes a two-way mandatory binding architecture to inherit the security finality of BTC, preventing long-range attacks.
+- **Bitcoin Nativeness:** Inchpower ensures full compatibility with the Bitcoin ecosystem, using BTC as gas fees to maintain purity.
+- **Security:** Utilizes a two-way mandatory binding architecture to inherit the security finality of Bitcoin, preventing long-range attacks.
 - **Zk-Proof Efficient Expansion:** Implements zero-knowledge proofs for faster transaction speeds and lower costs without compromising security.
-- **Modular Layer2 Solution:** Inchpower provides a modular SDK for building BTC Layer2 blockchains, allowing developers to build decentralized applications (Dapps) efficiently.
+- **Modular Layer 2 Solution:** Inchpower provides a modular SDK for building Bitcoin Layer 2 blockchains, allowing developers to build decentralized applications (Dapps) efficiently.
 
 ## 3. Getting Started
 
@@ -76,7 +76,7 @@ For detailed information on each field and its functions, refer to the source co
 
 ## 7. Conclusion
 
-Inchpower introduces a novel use case for Bitcoin, turning it into a programmable BTC Layer2 platform. The project addresses scalability challenges, empowers smart contracts and Dapps, and provides a competitive solution in the BTC ecosystem.
+Inchpower introduces a novel use case for Bitcoin, turning it into a programmable Bitcoin Layer 2 platform. The project addresses scalability challenges, empowers smart contracts and Dapps, and provides a competitive solution in the Bitcoin ecosystem.
 
 ## 8. Acknowledgments
 
