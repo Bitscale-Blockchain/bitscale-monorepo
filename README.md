@@ -3,6 +3,8 @@
 **Version**: 2.0  
 **Release Date**: November 17, 2023
 
+![InchNet Architecture](./inchpower1.jpeg)
+
 ## Table of Contents
 
 1. [Introduction](#1-introduction)
@@ -59,7 +61,7 @@ The Inchpower project is organized into the following packages:
 
 ### 5.1 InchPower Architecture
 
-![InchNet Architecture](./path/to/inchnet-architecture.png)
+![InchNet Architecture](./inchpower2.jpeg)
 
 ## 6. InchPower Node Structure
 
